@@ -43,7 +43,9 @@ The synthetic dataset is generated using Blender to create realistic 3D environm
 
 
 ## Evaluation Metrics
-![results](https://github.com/user-attachments/assets/7f76c815-9e11-4e46-a5c7-2a9c891f65d6)
+![results](https://github.com/user-attachments/assets/7f76c815-9e11-4e46-a5c7-2a9c891f65d6)  
+
+![val_batch2_pred_50_639e1947b6fe9f7b15b9](https://github.com/user-attachments/assets/7439750b-bfa4-4b40-8577-90739c854309)
 
 
 
