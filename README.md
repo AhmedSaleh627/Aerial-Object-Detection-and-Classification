@@ -41,6 +41,7 @@ The synthetic dataset is generated using Blender to create realistic 3D environm
   - Automated bounding box generation for object detection.
   - Annotations are formatted for training models using **YOLO**.
 
+## Kaggle Notebook Link: https://www.kaggle.com/code/ahmedsaleh627/notebook24ac0bdae7 
 
 ## Evaluation Metrics
 ![results](https://github.com/user-attachments/assets/7f76c815-9e11-4e46-a5c7-2a9c891f65d6)  
